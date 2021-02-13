@@ -2,11 +2,3 @@
 #PLAYLIST:hlscat.com
 #EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",POLSAT SPORT
 http://mags.vip:2086/live/miriam/miriam123/92756.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",POLSAT SPORT FHD
-http://starshare.live:8080/live/0987654321/1234567890/1970.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",POLSAT SPORTS
-http://starshare.live:8080/live/0987654321/1234567890/1981.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Polsat Sport
-http://red.ipfox.org:8080/Karim2_534341/40036069/28007?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",Polsat Sport FHD
-http://raostvip.com:8080/semi16/1609.sem/113661?checkedby:hlscat.com

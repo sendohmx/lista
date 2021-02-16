@@ -1,0 +1,24 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",POLSAT SPORT
+http://mags.vip:2086/live/jav/jav123/92756.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Sport",POLSAT SPORT
+http://mags.vip:2086/live/miriam/miriam123/92756.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT SPOR 2 HD+
+http://supersonictv.live:25461/903310/034806/72484?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Trt Spor 2 Hd
+http://tvog.eu:8080/ibrahim/08.03.2020/116341?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Trt Spor 2 Hd
+http://plustlc.com:8080/live/huseyin61/24.10.2020/52906.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Trt Spor 2 Hd
+http://plustlc.com:8080/live/muratacar/10.05.2019/52906.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Rai Sport
+http://plustlc.com:8080/live/huseyin61/24.10.2020/127291.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",RAI SPORT
+http://mags.vip:2086/live/miriam/miriam123/94164.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",RAI SPORT
+http://mags.vip:2086/live/jav/jav123/94164.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",RAI SPORT HD
+http://supersonictv.live:25461/903310/034806/74587?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",RAI Sport HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/39900?checkedby:hlscat.com
